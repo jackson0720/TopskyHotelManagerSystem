@@ -7,6 +7,10 @@
         <a href='https://img.shields.io/badge/language-C#-red.svg'><img src="https://img.shields.io/badge/language-CSharp-red.svg" alt=""></img></a>
 </p>
 
+# 特别注明：
+
+### 该项目已归档只读，未来只会在NF-TopSky-Team下的仓库更新，请注意！
+
 # 特别鸣谢：
 
 ### [遗失情缘](https://blog.lost520.cn/)提供的圆形进度条加载效果！
